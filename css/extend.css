@@ -69,24 +69,23 @@ body{
     }
 }
 
-.1re-logo{
+img.1re-logo{
 	padding:110px 0 49px;
 	display:block;
 	margin:0 auto;
-	background:#8fa19b url('https://evt.gitee.io/image/img/logo-large.png') no-repeat fixed center;
 }
 @media (max-height: 767px){
-	.1re-logo{
+	img.1re-logo{
 		padding-top:49px;
 	}
 }
 @media (min-height: 768px){
-	.1re-logo{
+	img.1re-logo{
 		padding-top:110px;
 	}
 }
 @media (min-height: 1080px){
-	.1re-logo{
+	img.1re-logo{
 		padding-top:220px;
 	}
 }
