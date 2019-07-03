@@ -1,7 +1,7 @@
 body{
 	min-width:530px;
 	padding-top:70px;
-	background:#8fa19b url('https://ae01.alicdn.com/kf/HTB16wKNe2WG3KVjSZFP760aiXXaU.png') no-repeat fixed center;
+	background:#8fa19b url('https://evt.gitee.io/image/img/bg.png') no-repeat fixed center;
 }
 @media (min-width:1920px){
 	body{
@@ -65,7 +65,7 @@ body{
     .navbar-inverse{
         padding-bottom:7px;
         border:none;
-        background:url('https://ae01.alicdn.com/kf/HTB1eyuNe3mH3KVjSZKz7622OXXay.png') repeat-x;
+        background:url('https://evt.gitee.io/image/img/top_bg.png') repeat-x;
     }
 }
 
@@ -134,7 +134,7 @@ img.gmfans-logo{
 	left:7px;
 	visibility:hidden;
 	opacity:0;
-	background:url('https://ae01.alicdn.com/kf/HTB1Q29Ne2WG3KVjSZFg762TspXaN.png') no-repeat;
+	background:url('https://evt.gitee.io/image/img/bg_category.png') no-repeat;
 	color:#fff;
 	font-size:15px;
 	line-height:29px;
@@ -189,7 +189,7 @@ img.gmfans-logo{
 .nav-icons ul .map.current,
 .nav-icons ul .bbs,
 .nav-icons ul .bbs.current{
-	background-image:url('../img/icon_nav.png');
+	background-image:url('https://evt.gitee.io/image/img/icon_nav.png');
 }
 .nav-icons ul .web{
 	background-position:9px -5px;
@@ -291,7 +291,7 @@ button.search-btn:hover span,
 .links-container .header a#finish-btn,
 .links-container .links > div > span,
 .links-container .edit > div.add-new span{
-    background-image:url('https://ae01.alicdn.com/kf/HTB1lX1Pe81D3KVjSZFy762uFpXaI.png');
+    background-image:url('https://evt.gitee.io/image/img/icon_func.png');
     background-repeat:no-repeat;
 }
 
@@ -389,7 +389,7 @@ button.search-btn:hover span,
 .links-container .edit > div span.toolkit em{
 	padding:0 4px;
     margin-right:4px;
-    background-image:url('https://ae01.alicdn.com/kf/HTB1lX1Pe81D3KVjSZFy762uFpXaI.png');
+    background-image:url('https://evt.gitee.io/image/img/icon_func.png');
     cursor:pointer;
 }
 
