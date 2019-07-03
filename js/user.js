@@ -245,7 +245,7 @@
 			showUserUrls();
 			showAddNew();
 		};
-		$.get('/jsondata/default.zh_cn.json',
+		$.get('../jsondata/default.zh_cn.json',
 				{},
 				function(data, status, xhr){
 					fixed_links = parseJson(data);
@@ -268,7 +268,7 @@
 			search_engine.text(search_engines_list[type][sel]["name"]);
 			search_engine.data("url",search_engines_list[type][sel]["url"]);
 		};
-		$.get('/jsondata/search.zh_cn.json',
+		$.get('../jsondata/search.zh_cn.json',
 				{},
 				function(data, status, xhr){
 					search_engines_list = parseJson(data);
