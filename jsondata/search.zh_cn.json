@@ -1,0 +1,18 @@
+{
+    "web":[
+        {"name":"百度","url":"http://www.baidu.com/s?ie=utf8&wd="},
+        {"name":"必应","url":"http://www.bing.com/search?mkt=zh-cn&q="},
+        {"name":"搜狗","url":"http://www.sogou.com/web?ie=utf8&query="},
+        {"name":"有道","url":"http://www.youdao.com/search?ue=utf8&q="}
+    ],
+    "music":[
+        {"name":"百度","url":"http://music.baidu.com/search?key="},
+        {"name":"搜狗","url":"http://mp3.sogou.com/music.so?query="},
+        {"name":"360","url":"http://s.music.so.com/s?q="}
+    ],
+    "image":[
+        {"name":"百度","url":"http://image.baidu.com/i?ie=utf-8&ct=201326592&lm=-1&word="},
+        {"name":"搜狗","url":"http://pic.sogou.com/pics?query="},
+        {"name":"有道","url":"http://image.youdao.com/search?q="}
+    ]
+}
