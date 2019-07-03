@@ -65,7 +65,7 @@ body{
     .navbar-inverse{
         padding-bottom:7px;
         border:none;
-        background:url('../img/top_bg.png') repeat-x;
+        background:url('https://ae01.alicdn.com/kf/HTB1eyuNe3mH3KVjSZKz7622OXXay.png') repeat-x;
     }
 }
 
@@ -134,7 +134,7 @@ img.gmfans-logo{
 	left:7px;
 	visibility:hidden;
 	opacity:0;
-	background:url('../img/bg_category.png') no-repeat;
+	background:url('https://ae01.alicdn.com/kf/HTB1Q29Ne2WG3KVjSZFg762TspXaN.png') no-repeat;
 	color:#fff;
 	font-size:15px;
 	line-height:29px;
@@ -291,7 +291,7 @@ button.search-btn:hover span,
 .links-container .header a#finish-btn,
 .links-container .links > div > span,
 .links-container .edit > div.add-new span{
-    background-image:url('../img/icon_func.png');
+    background-image:url('https://ae01.alicdn.com/kf/HTB1lX1Pe81D3KVjSZFy762uFpXaI.png');
     background-repeat:no-repeat;
 }
 
@@ -389,7 +389,7 @@ button.search-btn:hover span,
 .links-container .edit > div span.toolkit em{
 	padding:0 4px;
     margin-right:4px;
-    background-image:url('../img/icon_func.png');
+    background-image:url('https://ae01.alicdn.com/kf/HTB1lX1Pe81D3KVjSZFy762uFpXaI.png');
     cursor:pointer;
 }
 
