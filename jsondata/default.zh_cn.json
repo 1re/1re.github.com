@@ -1,9 +1,11 @@
-[
+{
+    "web":[
     {"name":"GM网游音乐论坛","url":"http://bbs.gmfans.org"},
-	{"name":"小旭游戏音乐","url":"http://www.gamemusic.com.cn/"},
-	{"name":"喜糖游戏音乐","url":"http://www.shedance.net/"},
-	{"name":"绯雨游戏音乐","url":"http://www.lightrain.com.cn/"},
-	{"name":"The One Studio","url":"http://cn.theonestudio.org/"},
-	{"name":"AimSound Studio","url":"http://www.aimsoundstudio.cn/"},
-	{"name":"月之门游戏音乐","url":"http://www.moongate-music.com/"},
-]
+    {"name":"小旭游戏音乐","url":"http://www.gamemusic.com.cn/"},
+    {"name":"喜糖游戏音乐","url":"http://www.shedance.net/"},
+    {"name":"绯雨游戏音乐","url":"http://www.lightrain.com.cn/"},
+    {"name":"The One Studio","url":"http://cn.theonestudio.org/"},
+    {"name":"AimSound Studio","url":"http://www.aimsoundstudio.cn/"},
+    {"name":"月之门游戏音乐","url":"http://www.moongate-music.com/"},
+    ]
+}
