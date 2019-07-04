@@ -178,8 +178,39 @@
 					s = s.replace(es[i], es[i + 1]);
 				return '"' + s + '"';
 			}
-
-
+			function encode(a) {
+				var r, i;
+				switch (typeof a) {
+				case 'string':
+					return encode_str(a);
+				case 'number':
+				case 'boolean':
+					return a + '';
+				case 'object':
+					if (!a) return 'null';
+					r = [];
+					if (a instanceof Array) {
+						if (a.length == 1 && a[0] == null)
+							return '[null]';
+						for (i = 0; i < a.length; i++)
+							r[i] = a[i] == null ? '' : encode(a[i]);
+						return '[' + r.join() + ']';
+					}
+					else {
+						for (i in a)
+							r[r.length] = encode_str(i) + ':' + encode(a[i]);
+						return '{' + r.join() + '}';
+					}
+				case 'undefined':
+					return 'null';
+				default:
+					throw Error(typeof a);
+				}
+			}
+			return encode;
+		}();
+    
+    
 		function changeSearchType(){
 			var type = nav.children('.current').data('type');
 			list.children().remove();
