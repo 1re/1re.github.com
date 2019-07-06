@@ -1,11 +1,18 @@
-{
-    "work":[
-    {"name":"GM网游音乐论坛","url":"http://bbs.gmfans.org"},
-    {"name":"小旭游戏音乐","url":"http://www.gamemusic.com.cn/"},
-    {"name":"喜糖游戏音乐","url":"http://www.shedance.net/"},
-    {"name":"绯雨游戏音乐","url":"http://www.lightrain.com.cn/"},
-    {"name":"The One Studio","url":"http://cn.theonestudio.org/"},
-    {"name":"AimSound Studio","url":"http://www.aimsoundstudio.cn/"},
-    {"name":"月之门游戏音乐","url":"http://www.moongate-music.com/"},
-    ]
-}
+[
+    {"name":"智慧后勤","url":"http://www.xyzhhq.cn"},
+	{"name":"资助系统","url":"http://xszz.scedu.net"},
+	{"name":"学前教育","url":"http://xqxt.scedu.net"},
+	{"name":"班级优化","url":"https://care.seewo.com/"},
+	{"name":"GeoGebra","url":"https://www.geogebra.org/"},
+	{"name":"爱上学","url":"https://www.i-school.net"},
+	{"name":"安全教育","url":"https://neijiang.xueanquan.com"},
+	{"name":"电子课本","url":"http://www.shuxue9.com/"},
+    {"name":"绿色圃","url":"http://www.lspjy.com/forum.php?gid=7"},
+    {"name":"Mobilism","url":"https://forum.mobilism.org"},
+    {"name":"卡饭","url":"https://www.kafan.cn/"},
+    {"name":"52PJ","url":"https://www.52pojie.cn/"},
+    {"name":"果核剥壳","url":"https://www.ghpym.com/"},
+    {"name":"小兵博客","url":"http://www.xnbing.com/"},
+    {"name":"Github","url":"https://github.com/"},
+    {"name":"坚果云","url":"https://www.jianguoyun.com"},
+]
