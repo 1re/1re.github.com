@@ -268,7 +268,7 @@ img.re-logo{
 
 .links-container .header{
 	height:40px;
-	border-top:1px solid rgba(27, 25, 25, 0.83);
+	border-top:1px solid rgba(27, 25, 25, 0.5);
 	border-bottom:1px solid rgba(0,0,0,0.35);
 	font-size:14px;
 	line-height:39px;
@@ -307,7 +307,7 @@ button.search-btn:hover span,
 	width:100%;
 	padding:7px 8px;
 	overflow: hidden;
-	border-top: 1px solid rgba(27, 25, 25, 0.75);	
+	border-top: 1px solid rgba(27, 25, 25, 0.3);	
 }
 
 .links-container .links > div{
