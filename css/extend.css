@@ -1,7 +1,7 @@
 body{
 	min-width:530px;
 	padding-top:70px;
-	background:#0f1022 url('http://evt.gitee.io/jci/img/bg0922.jpg') no-repeat fixed center;
+	background:#0f1022 url('https://evt.gitee.io/image/img/bg.png') no-repeat fixed center;
 }
 @media (min-width:1920px){
 	body{
@@ -65,7 +65,7 @@ body{
     .navbar-inverse{
         padding-bottom:7px;
         border:none;
-        background:url('http://evt.gitee.io/jci/img/top_bg.png') repeat-x;
+        background:url('https://evt.gitee.io/image/img/top_bg.png') repeat-x;
     }
 }
 
@@ -134,7 +134,7 @@ img.re-logo{
 	left:7px;
 	visibility:hidden;
 	opacity:0;
-	background:url('http://evt.gitee.io/jci/img/bg_category.png') no-repeat;
+	background:url('https://evt.gitee.io/image/img/bg_category.png') no-repeat;
 	color:#fff;
 	font-size:15px;
 	line-height:29px;
@@ -189,7 +189,7 @@ img.re-logo{
 .nav-icons ul .map.current,
 .nav-icons ul .bbs,
 .nav-icons ul .bbs.current{
-	background-image:url('http://evt.gitee.io/jci/img/icon_nav.png');
+	background-image:url('https://evt.gitee.io/image/img/icon_nav.png');
 }
 .nav-icons ul .web{
 	background-position:9px -5px;
@@ -247,7 +247,7 @@ img.re-logo{
 	border:1px solid rgba(0,0,0,0.35);
 	border-radius:4px;
 	overflow:hidden;
-	background-color:rgba(118, 134, 134, 0.06);
+	background-color:rgba(0,0,0,0.3);
 	color:#fff;
 }
 @media (max-height: 767px){
@@ -268,7 +268,7 @@ img.re-logo{
 
 .links-container .header{
 	height:40px;
-	border-top:1px solid rgba(27, 25, 25, 0.5);
+	border-top:1px solid rgba(255,255,255,0.2);
 	border-bottom:1px solid rgba(0,0,0,0.35);
 	font-size:14px;
 	line-height:39px;
@@ -291,7 +291,7 @@ button.search-btn:hover span,
 .links-container .header a#finish-btn,
 .links-container .links > div > span,
 .links-container .edit > div.add-new span{
-    background-image:url('http://evt.gitee.io/jci/img/icon_func.png');
+    background-image:url('https://evt.gitee.io/image/img/icon_func.png');
     background-repeat:no-repeat;
 }
 
@@ -307,7 +307,7 @@ button.search-btn:hover span,
 	width:100%;
 	padding:7px 8px;
 	overflow: hidden;
-	border-top: 1px solid rgba(27, 25, 25, 0.3);	
+	border-top: 1px solid rgba(255,255,255,0.24);	
 }
 
 .links-container .links > div{
@@ -389,7 +389,7 @@ button.search-btn:hover span,
 .links-container .edit > div span.toolkit em{
 	padding:0 4px;
     margin-right:4px;
-    background-image:url('http://evt.gitee.io/jci/img/icon_func.png');
+    background-image:url('https://evt.gitee.io/image/img/icon_func.png');
     cursor:pointer;
 }
 
