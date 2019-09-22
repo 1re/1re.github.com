@@ -247,7 +247,7 @@ img.re-logo{
 	border:1px solid rgba(0,0,0,0.35);
 	border-radius:4px;
 	overflow:hidden;
-	background-color:rgba(118, 134, 134, 0.1);
+	background-color:rgba(118, 134, 134, 0.06);
 	color:#fff;
 }
 @media (max-height: 767px){
