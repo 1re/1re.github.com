@@ -269,7 +269,7 @@ img.re-logo{
 .links-container .header{
 	height:40px;
 	border-top:1px solid rgba(160, 160, 160, 0.2);
-	border-bottom:1px solid rgba(0,0,0,0.35);
+	border-bottom:1px solid rgba(0,0,0,0.02);
 	font-size:14px;
 	line-height:39px;
 	text-indent:10px;
