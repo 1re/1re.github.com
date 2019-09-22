@@ -244,10 +244,10 @@ img.re-logo{
 .links-container{
 	margin-top:60px;
 	padding-bottom:13px;
-	border:1px solid rgba(0,0,0,0.35);
+	border:1px solid rgba(130, 130, 130, 0.32);
 	border-radius:4px;
 	overflow:hidden;
-	background-color:rgba(0,0,0,0.3);
+	background-color:rgba(130, 130, 130, 0.21);
 	color:#fff;
 }
 @media (max-height: 767px){
@@ -268,7 +268,7 @@ img.re-logo{
 
 .links-container .header{
 	height:40px;
-	border-top:1px solid rgba(255,255,255,0.2);
+	border-top:1px solid rgba(160, 160, 160, 0.51);
 	border-bottom:1px solid rgba(0,0,0,0.35);
 	font-size:14px;
 	line-height:39px;
@@ -307,7 +307,7 @@ button.search-btn:hover span,
 	width:100%;
 	padding:7px 8px;
 	overflow: hidden;
-	border-top: 1px solid rgba(255,255,255,0.24);	
+	border-top: 1px solid rgba(136, 146, 169, 0.1);	
 }
 
 .links-container .links > div{
