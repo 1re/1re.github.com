@@ -446,7 +446,7 @@ button.search{
 }
 
 input[type='text'].search{
-	color: #081e33;
+	color: #333;
 	border-top:1px solid #a8a497;
 	border-bottom:1px solid #a8a497;
 	border-left:none;
