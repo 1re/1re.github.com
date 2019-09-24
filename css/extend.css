@@ -317,13 +317,13 @@ button.search-btn:hover span,
 
 @media screen and (min-width: 600px){
 	.links-container .links > div{
-		width:25%;
+		width:20%;
 	}
 }
 
 @media screen and (max-width: 600px){
 	.links-container .links > div{
-		width:50%;
+		width:33.3%;
 	}
 }
 
