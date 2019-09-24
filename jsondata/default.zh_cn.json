@@ -20,7 +20,7 @@
 	{"name":"OfficeTool","url":"https://otp.landian.vip"},
 	{"name":"果核音乐","url":"https://music.ghpym.com"},
 	{"name":"MusicTools","url":"http://tool.yijingying.com/musictools/"},
-	{"name":"MyFreemp3","url":"http://lab.liumingye.cn/api/"},
+	{"name":"MyFreeMP3","url":"http://lab.liumingye.cn/api/"},
 	
 	{"name":"Unsplash","url":"https://unsplash.com/"},
 	{"name":"Picjumbo","url":"https://picjumbo.com/"},
@@ -33,7 +33,7 @@
 	{"name":"Easyicon","url":"https://www.easyicon.net/"},
 	{"name":"阿里图标","url":"https://www.iconfont.cn/"},
 	{"name":"我告诉你","url":"https://msdn.itellyou.cn"},
-	{"name":"WIN0S","url":"https://www.winos.me"},
+	{"name":"WINOS","url":"https://www.winos.me"},
 	
 	{"name":"Mobilism","url":"https://forum.mobilism.org"},
  	{"name":"卡饭论坛","url":"https://www.kafan.cn/"},
@@ -44,6 +44,6 @@
 	{"name":"心海e站","url":"https://hrtsea.com"},
 	{"name":"蓝点网","url":"https://www.landiannews.com"},
 	
-	{"name":"Github","url":"https://github.com/"},
 	{"name":"坚果云","url":"https://www.jianguoyun.com"},
+	{"name":"Github","url":"https://github.com/"},
 ]
