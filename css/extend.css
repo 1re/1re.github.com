@@ -351,6 +351,7 @@ button.search-btn:hover span,
 .links-container .links > div > span a:hover{
         color: #fff;
         background:#126f13;
+	text-decoration: none;
 }
 
 .links-container .links > div span.toolkit{
