@@ -346,6 +346,7 @@ button.search-btn:hover span,
 	color:#fff;
 	font-size:14px;
 	padding: 6px 8px;
+	text-decoration: none;
 }
 
 .links-container .links > div > span a:hover{
