@@ -305,7 +305,7 @@ button.search-btn:hover span,
 
 .links-container .links{
 	width:100%;
-	padding:7px 8px;
+	padding:7px 16px;
 	overflow: hidden;
 	border-top: 1px solid rgba(136, 146, 169, 0.1);	
 }
@@ -333,7 +333,7 @@ button.search-btn:hover span,
 
 .links-container .links > div > span{
 	display:block;
-	height:23px;
+	height:25px;
 	margin:2px;
 	border:1px solid transparent;
 	overflow:hidden;
@@ -345,7 +345,7 @@ button.search-btn:hover span,
 .links-container .links > div > span a{
 	color:#fff;
 	font-size:14px;
-	padding: 2px 8px;
+	padding: 6px 8px;
 }
 
 .links-container .links > div > span a:hover{
