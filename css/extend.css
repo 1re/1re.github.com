@@ -333,7 +333,7 @@ button.search-btn:hover span,
 
 .links-container .links > div > span{
 	display:block;
-	height:25px;
+	height:24px;
 	margin:2px;
 	border:1px solid transparent;
 	overflow:hidden;
@@ -345,7 +345,7 @@ button.search-btn:hover span,
 .links-container .links > div > span a{
 	color:#fff;
 	font-size:14px;
-	padding: 6px 8px;
+	padding: 5px 8px;
 	text-decoration: none;
 }
 
