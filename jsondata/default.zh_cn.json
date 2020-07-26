@@ -1,5 +1,4 @@
 [
-	{"name":"班级优化","url":"https://care.seewo.com/"},
 	{"name":"安全教育","url":"https://neijiang.xueanquan.com"},
 	{"name":"学生普法","url":"http://qspfw.moe.gov.cn/"},
 	{"name":"电子课本","url":"http://www.shuxue9.com/"},
@@ -10,8 +9,7 @@
 	{"name":"易查分","url":"https://416122.yichafen.com/"},
 	
 	{"name":"学前学籍","url":"http://xqxt.scedu.net"},
-	{"name":"学生资助","url":"http://xszz.scedu.net/"},
-	
+
 	{"name":"GeoGebra","url":"https://www.geogebra.org/"},
 	{"name":"PD网页版","url":"https://www.baiduwp.com"},
 	{"name":"云转换","url":"https://www.360converter.com"},
@@ -37,6 +35,7 @@
 	
 	{"name":"无忧启动","url":"http://bbs.wuyou.net"},
 	{"name":"WINOS","url":"https://www.winos.me"},
+	{"name":"远景论坛","url":"http://bbs.pcbeta.com/"},
 	
 	{"name":"Mobilism","url":"https://forum.mobilism.org"},
  	{"name":"卡饭论坛","url":"https://www.kafan.cn/"},
@@ -48,7 +47,8 @@
 	{"name":"ZD423","url":"https://www.423down.com/"},
 	{"name":"数码之家","url":"https://www.mydigit.cn"},
 	{"name":"蓝点网","url":"https://www.landiannews.com"},
-	
+
+	{"name":"🌸云空间","url":"https://cloud.huawei.com/"},
 	{"name":"坚果云","url":"https://www.jianguoyun.com"},
 	{"name":"Github","url":"https://github.com/"},
 ]
